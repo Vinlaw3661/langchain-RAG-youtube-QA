@@ -10,7 +10,7 @@ The 5 main concepts covered are:
 
 3. **Indexes:**
    - In vector databases, indexes play a crucial role in enabling fast and efficient retrieval of similar data points. Unlike traditional relational databases that use indexes on tables with rows and columns, vector databases deal with high-dimensional vectors representing data objects.
-   - 
+     
 4. **Agents:**
    - Agents in LangChain serve as the glue that brings everything together. They orchestrate the NLP workflow by:
       1. Selecting the appropriate tools based on the user's query or task.
