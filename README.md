@@ -1,6 +1,5 @@
 # LangChain-RAG
-This project explores the basics of using the LangChain framework in creating Retrieval Augmented Generation (RAG) systems by leveraging Large Language Models
-The 5 main concepts covered are:
+This project explores the basics of using the LangChain framework in creating Retrieval Augmented Generation (RAG) systems by leveraging Large Language Models. The 5 main concepts covered are:
 
 1. **Models:**
    - The core machine learning models used for natural language processing tasks. These models can be pre-trained models like GPT-3 or custom models you train on your own data.
